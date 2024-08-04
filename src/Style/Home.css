@@ -1,0 +1,25 @@
+.Home{
+     height: 90vh;
+     background-position: center;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     flex-direction: column;
+     background-repeat: no-repeat;
+     background-size: cover;
+}
+ .Home h1{
+    color: white;
+    text-align: center;
+
+ }.Home p{
+    color: white;
+    font-weight: bold;
+ }
+ .Home button{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 20px;
+ }
+  
